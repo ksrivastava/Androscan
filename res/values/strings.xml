@@ -1,0 +1,46 @@
+<resources>
+
+    <string name="app_name">Kos Library</string>
+
+    <!-- Menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_titles">Titles</string>
+    <string name="menu_authors">Authors</string>
+    <string name="menu_genres">Genres</string>
+    <string name="menu_insert">Insert</string>
+
+    <!-- Activity Labels -->
+
+    <string name="title_activity_main">Welcome to Kos Library</string>
+    <string name="title_activity_title">Kos Library</string>
+    <string name="title_activity_author">Browse by Authors</string>
+    <string name="title_activity_genre">Browse by Genres</string>
+    <string name="title_activity_display">Books</string>
+    <string name="title_activity_scan">Insert Books</string>
+
+    <!-- ScanActivity -->
+
+    <string name="txt_scan">Scan</string>
+    <string name="txt_status">Status</string>
+    <string name="txt_result">Result</string>
+    <string name="txt_scan_prompt">Press the button to start a scan.</string>
+    <string name="txt_no_result">No result.</string>
+    <string name="txt_scan_cancelled">Scan cancelled.</string>
+    <string name="connection_error">Connection Error.</string>
+    <string name="xml_error">XML Error.</string>
+    <string name="textTitle">Title:</string>
+    <string name="textAuthor">Author:</string>
+    <string name="textGenre">Genre:</string>
+    <string name="nullTxt"></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_google">GoogleActivity</string>
+    <string name="title_activity_book_display">BookDisplayActivity</string>
+	
+    <!--  Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#151B54</color>
+    <color name="grey">#616D7E</color>
+    <color name="black">#000000</color>
+    
+</resources>

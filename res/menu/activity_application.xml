@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_refresh"
+        android:title="@string/menu_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/menu_titles" android:title="@string/menu_titles"></item>
+    <item android:id="@+id/menu_insert" android:title="@string/menu_insert"></item>
+    <item android:id="@+id/menu_authors" android:title="@string/menu_authors"></item>
+    <item android:id="@+id/menu_genres" android:title="@string/menu_genres"></item>
+</menu>
